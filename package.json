@@ -1,15 +1,15 @@
 {
-  "author": "Uber <erik@uber.com> (http://github.com/uber)",
-  "name": "coffee-middleware",
+  "author": "emnh <hvidevold@gmail.com> (http://github.com/emnh)",
+  "name": "iced-coffee-middleware",
   "description": "coffee-script middleware for connect.",
   "version": "0.2.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/uber/coffee-middleware.git"
+    "url": "git://github.com/emnh/coffee-middleware.git"
   },
   "main": "lib/middleware.js",
   "dependencies": {
-    "coffee-script": ">= 1.6.0",
+    "iced-coffee-script": ">= 1.6.0",
     "mkdirp": ">= 0.3.1",
     "convert-source-map": "~0.2.5"
   },
